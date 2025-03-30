@@ -53,7 +53,12 @@ http://localhost:8080/swagger-ui/index.html
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Viihcerq/checkpoint1
+   
    cd checkpoint1
+
+   ```
+    ```
    mvn spring-boot:run
+    ```
 
 
